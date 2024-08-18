@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethaningenium
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Bun, Golang, Rust etc
+- 🌱 I’m currently learning K8s, Linux and Network
 - 💞️ I’m looking to collaborate on web app dev
 - 📫 How to reach me: ethanhamithon@gmail.com
 
